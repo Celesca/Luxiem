@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lexiem"
+version = "0.0.1"
+description = "Mapping beginner sound descriptors to IEM frequency response from review text"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Sawit Koseeyaumporn", email = "folk.sawit@gmail.com" }]
+
+[tool.setuptools.packages.find]
+where = ["src"]

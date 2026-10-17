@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use Lexiem, please cite it as below."
+title: "Lexiem: Mapping Beginner Sound Descriptors to IEM Frequency Response from Review Text"
+type: software
+authors:
+  - family-names: Koseeyaumporn
+    given-names: Sawit
+    # affiliation: TODO
+    email: folk.sawit@gmail.com
+license: MIT
+repository-code: "https://github.com/TODO/lexiem"
+# doi: TODO (Zenodo, after first tagged release)
+version: 0.0.1
+date-released: 2026-10-18
+keywords:
+  - in-ear monitors
+  - sound descriptors
+  - frequency response
+  - large language models
+  - review text mining

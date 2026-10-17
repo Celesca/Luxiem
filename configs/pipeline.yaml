@@ -1,0 +1,10 @@
+paths:
+  sources: data/sources/iem_index.csv
+  raw_measurements: data/raw/measurements
+  raw_reviews: data/raw/reviews
+  llm_cache: data/cache/llm
+  interim: data/interim
+  processed: data/processed
+  results: results
+
+seed: 0

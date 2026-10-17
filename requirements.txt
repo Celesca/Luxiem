@@ -1,0 +1,11 @@
+# TODO: pin exact versions (pip freeze) once the first stage is implemented.
+numpy
+pandas
+scipy
+scikit-learn
+pyyaml
+requests
+beautifulsoup4
+anthropic
+matplotlib
+pytest

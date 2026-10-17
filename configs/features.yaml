@@ -1,0 +1,9 @@
+# Band edges are PLACEHOLDERS. Replace with the values from the preferred-target
+# research on in-ear headphones cited in the paper, and cite it here.
+reference: TODO
+bands_hz:
+  bass: [20, 200]          # TODO
+  upper_mid: [2000, 5000]  # TODO
+  treble: [5000, 10000]    # TODO
+smoothing: TODO            # e.g. 1/3-octave
+normalize_at_hz: 1000      # TODO: level-match point

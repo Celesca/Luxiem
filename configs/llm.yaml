@@ -1,0 +1,7 @@
+# Record the exact model so cached outputs are attributable.
+provider: anthropic
+model: TODO          # exact model ID, e.g. a dated snapshot if available
+temperature: 0
+max_tokens: 1024
+prompt: prompts/extract_descriptors_v1.md
+retries: 3
